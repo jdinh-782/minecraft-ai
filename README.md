@@ -37,5 +37,5 @@ Johnson Du Dinh
 
 ## Acknowledgements
 [Malmo](https://github.com/microsoft/malmo) </br>
-[Docker](https://www.docker.com/)
-[Jupyter](https://jupyter.org/).
+[Docker](https://www.docker.com/) </br>
+[Jupyter](https://jupyter.org/)
