@@ -36,6 +36,6 @@ Han Minh Tran </br>
 Johnson Du Dinh
 
 ## Acknowledgements
-[Malmo] (https://github.com/microsoft/malmo) </br>
-[Docker] (https://www.docker.com/)
-[Jupyter] (https://jupyter.org/).
+[Malmo](https://github.com/microsoft/malmo) </br>
+[Docker](https://www.docker.com/)
+[Jupyter](https://jupyter.org/).
